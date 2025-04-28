@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Harsh! 👋
 
-<!--
-**Harshvardan23/Harshvardan23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![SQL Certified](https://img.shields.io/badge/SQL-Certified-brightgreen?logo=postgresql&logoColor=white)](https://github.com/Harshvardan23)
+[![Python Learner](https://img.shields.io/badge/Python-Learning-blue?logo=python&logoColor=white)](https://github.com/Harshvardan23)
+[![Data Enthusiast](https://img.shields.io/badge/Data-Enthusiast-orange)](https://github.com/Harshvardan23)
+[![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-blueviolet)](https://www.linkedin.com/in/harsh-kumar-99263b283/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 PGDGBO Student at Shri Ram College of Commerce (SRCC)  
+📜 Certified in SQL (CS50 Harvard)  
+🛠️ Currently learning Python  
+📊 Skilled in Excel, Power BI, Tableau  
+📈 Aspiring Data Analyst | Passionate about turning data into impactful insights
+
+---
+
+## 🚀 Skills
+- **SQL** (MySQL, PostgreSQL)
+- **Python** (Learning)
+- **Excel** (Advanced Functions, Data Analysis)
+- **Power BI** (Dashboards, Reports)
+- **Tableau** (Visualizations, Storytelling)
+
+---
+
+## 📚 Recent Projects
+- [CS50 SQL Introduction to Databases](https://github.com/Harshvardan23/CS50-SQL-INTRODUCTION-TO-DATA-BASES-)
+
+---
+
+## 🤝 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/harsh-kumar-99263b283/)
+- [GitHub](https://github.com/Harshvardan23)
+
+---
+⭐️ Always eager to learn, collaborate, and grow 🚀
