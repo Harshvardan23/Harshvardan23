@@ -26,6 +26,7 @@
 
 ## 📚 Recent Projects
 - [CS50 SQL Introduction to Databases](https://github.com/Harshvardan23/CS50-SQL-INTRODUCTION-TO-DATA-BASES-)
+- [Pizza-Sales-Analysis](https://github.com/Harshvardan23/Pizza-Sales-Analysis)
 
 ---
 
